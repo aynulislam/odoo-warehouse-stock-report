@@ -1,0 +1,1 @@
+# odoo-warehouse-stock-report
