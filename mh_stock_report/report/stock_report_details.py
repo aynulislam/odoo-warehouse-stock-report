@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from odoo import models, api
 
-
 class StockReportDetails(models.AbstractModel):
     """
     This class is responsible for generating the stock report template.

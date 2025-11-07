@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Stock Inventory Report | Stock Inventory Aging Report',
+    'name': 'Stock Inventory Report',
     'description': """
           Stock Inventory Report
     """,

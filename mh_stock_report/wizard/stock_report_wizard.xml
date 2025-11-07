@@ -17,7 +17,7 @@
                     </group>
                     <group string="Location/Company">
                         <group>
-                            <field name="stock_location_id"/>
+                            <field name="stock_location_id" domain="[('usage', '=', 'internal')]"/>
                         </group>
                         <group>
                             <field name="company_id"/>

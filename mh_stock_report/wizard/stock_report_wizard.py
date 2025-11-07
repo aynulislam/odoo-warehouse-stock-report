@@ -12,7 +12,7 @@ class StockReportWizard(models.TransientModel):
     to export the report in PDF and Excel formats.
     """
     _name = 'stock.report.wizard'
-    _description = "Stock Report Card"
+    _description = "Stock Inventory Report"
 
     company_id = fields.Many2one('res.company', default=lambda self: self.env.company,
                                  required=True)
